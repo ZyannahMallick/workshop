@@ -9,7 +9,7 @@ Zyannah Mallick
 
 ## Reading Responses
 1. [Blumenstock reading] (https://www.github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (Jan 27)
-   [Blumenstock repsons] (https://github.com/ZyannahMallick/workshop/blob/master/blumenstock.md) (Jan 27)
+   [Blumenstock response] (https://github.com/ZyannahMallick/workshop/blob/master/blumenstock.md) (Jan 27)
 
 ## Project 1
 
