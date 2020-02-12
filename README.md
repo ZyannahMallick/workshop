@@ -15,5 +15,5 @@ Zyannah Mallick
 
 ## Project 1
 
-1. [Morocco](project1)
+1. [Morocco](https://github.com/ZyannahMallick/workshop/blob/master/project1)
 
