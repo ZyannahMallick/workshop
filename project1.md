@@ -5,4 +5,4 @@ Zyannah Mallick
 
 # Administrative Subdivisions of Morocco
 
-! [] (Morocco1.png)
+![](Morocco1.png)
