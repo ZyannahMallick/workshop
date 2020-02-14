@@ -4,8 +4,8 @@ Zyannah Mallick
 
 ## Workshop
 
-1. Line Plot
-2. The Path of a Salesman - Plot
+1. [Line Plot](https://github.com/ZyannahMallick/workshop/blob/master/plot2.png)
+2. [The Path of a Salesman Plot](https://github.com/ZyannahMallick/workshop/blob/master/Challenge_Plot.png)
 
 ## Reading Responses
 1. [Blumenstock reading](https://www.github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (Jan 27)
@@ -16,4 +16,5 @@ Zyannah Mallick
 ## Project 1
 
 1. [Morocco](https://github.com/ZyannahMallick/workshop/blob/master/project1.md)
+2. [Syria](https://github.com/ZyannahMallick/workshop/blob/master/syr_pop19_adm2.png)
 
