@@ -15,6 +15,5 @@ Zyannah Mallick
 
 ## Project 1
 
-1. [Morocco](https://github.com/ZyannahMallick/workshop/blob/master/project1.md)
-2. [Syria](https://github.com/ZyannahMallick/workshop/blob/master/syr_pop19_adm2.png)
+1. [Morocco and Syria populations](https://github.com/ZyannahMallick/workshop/blob/master/project1.md)
 
