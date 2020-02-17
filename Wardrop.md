@@ -1,4 +1,6 @@
 # Response to Wardrop Reading
+### Zyannah Mallick
+### 2/17/20
 
 The top-down approach to population disaggregation is when dasymetric mapping techniques use ancillary/covariate data to redistribute the data at finer scales which allows researchers to disaggregate the areal unit to more spatial distributions. GIS and remote satellite technologies are used to map the population dasymetrically, which produces high spatial resolution grids that are then used to represent the ancilary data. An example of top-down disaggregation is allocating population counts based on covariates, like distance to road or land cover, that correlate with population density. However, some challenges with this approach is that researchers don’t know how reliable the input population data is that they are utilizing to get the population estimate, especially in poorer areas. Top-down disaggregation only works well when the census data is accurate. 
 	
