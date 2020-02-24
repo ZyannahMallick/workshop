@@ -22,7 +22,7 @@ I originally chose to work with Morocco for this project, but because it had mor
 
 ## Part 3
 ### Population Density of Syria in 2019
-
+![](https://github.com/ZyannahMallick/workshop/blob/master/syria_project1_final.png)
 
 Interestingly, Damascus has the largest persons/km^2 because it is such a heavily populated area but has a 
 
