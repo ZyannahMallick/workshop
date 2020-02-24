@@ -30,7 +30,9 @@ Part two is where I switched over to Syria, as Morocco had to many grid cells an
 ![](https://github.com/ZyannahMallick/workshop/blob/master/syria_project1_final.png)
 
 
-My biggest challenge here was that I forgot to include fill=pop19 in the code when making the 
-Interestingly, Damascus has the largest persons/km^2 because it is such a heavily populated area but has a 
+My biggest challenge here was that I forgot to include fill=pop19 in the code when making the plots and I couldn't figure out why my plots weren't accurate but with a little bit of help from Profesor Frazier, I was able to figure out what was wrong and fix it.
+
+
+These bar and spatial plots show that Aleppo is the  Interestingly, Damascus has the largest persons/km^2 because it is such a heavily populated area but has a 
 
 
