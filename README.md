@@ -12,5 +12,5 @@ Zyannah Mallick
 
 ## Project 1
 
-1. [Morocco and Syria subdivisions](https://zyannahmallick.github.io/workshop/project1)
+1. [Project 1 deliverable](https://zyannahmallick.github.io/workshop/project1)
 
