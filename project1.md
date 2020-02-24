@@ -8,7 +8,7 @@ Zyannah Mallick
 
 ![](Morocco1.png)
 
-The first immage shows Morocco broken down into its regions (1st administrative level) and provinces (administrative level 2). My biggest challenge with this section was that because some of the regions in Morocco had names that were four words long, the first administative level labels covered up the second administatve labels. I tried to fix this by using label repel but this made it look really messy in my opinion (see second image) so I decided to change the text color instead so even if the text overlapped, it would still be somewhat readable.
+The first image shows Morocco broken down into its regions (1st administrative level) and provinces (administrative level 2). My biggest challenge with this section was that because some of the regions in Morocco had names that were four words long, the first administative level labels covered up the second administatve labels. I tried to fix this by using label repel but this made it look really messy in my opinion (see second image) so I decided to change the text color instead so even if the text overlapped, it would still be somewhat readable.
 
 ![](Morocco.png)
 
