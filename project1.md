@@ -3,8 +3,6 @@
 
 Zyannah Mallick
 
-I originally chose to work with Morocco for this project, but because it had more than 1 million grid cells, I chose to use Syria instead for parts 2 and 3.
-
 ## Part 1
 ### Administrative Subdivisions of Morocco
 
