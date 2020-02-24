@@ -23,7 +23,7 @@ The first immage shows Morocco broken down into its regions (1st administrative 
 
 ![](syr_pop19_adm2.png)
 
-Part two is where I switched over to Syria, as Morocco had to many grid cells and I did not want to focus on just one reigon of Morocco. The first image shows the populations in Syria's governoates/provinces (adm1) and the second image is . For this part, I had trouble identifying when to use 
+Part two is where I switched over to Syria, as Morocco had to many grid cells and I did not want to focus on just one reigon of Morocco. The first image shows the populations in Syria's governoates/provinces (adm1) and the second image is its districts (adm2). The stretch goal was fairly straightforward, as I only had to switch adm1 with adm2. For this part, I sometimes had trouble identifying when to use what variable and where as I would sometimes get confused with the totals varaible versus population values variable but with a little bit of help from my teammates, I was able to understand the code better and figure it out. 
 
 ## Part 3
 ### Population Density of Syria in 2019
