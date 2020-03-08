@@ -15,4 +15,5 @@ Zyannah Mallick
 ## Project 1
 
 1. [Project 1 deliverable](https://zyannahmallick.github.io/workshop/project1)
+2. [Project 2: Syria](https://zyannahmallick.github.io/workshop/Project2)
 
