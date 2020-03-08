@@ -1,1 +1,20 @@
-# Project 2
+# Project 2: Syria
+
+## Population Log ًًًwith Density
+![](poplog_with_density.png)
+
+## Night Time Lights with Density
+![](ntl_with_density.png)
+
+## Residual Model with Night Time Lights, Urban Cover, and Bare Cover Variables
+![](residual_ntl_dst100_dst200.png)
+
+R-sqaured:
+p-value:
+
+## Residual Model with All Variables 
+
+![](residual_allvariables.png)
+
+R-sqaured:
+p-value:
