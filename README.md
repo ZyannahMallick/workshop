@@ -2,6 +2,11 @@
 
 Zyannah Mallick
 
+## Projects
+
+1. [Project 1 deliverable](https://zyannahmallick.github.io/workshop/project1)
+2. [Project 2: Syria](https://zyannahmallick.github.io/workshop/Project2)
+
 
 ## Reading Responses
 1. [Blumenstock response](https://zyannahmallick.github.io/workshop/blumenstock) (Jan 27)
@@ -12,8 +17,6 @@ Zyannah Mallick
 
 4. [Stevens et al. response](https://zyannahmallick.github.io/workshop/StevensReading) (March 2)
 
-## Project 1
+5. [Nives et al. response](https://zyannahmallick.github.io/workshop/NivesReading) (March 25)
 
-1. [Project 1 deliverable](https://zyannahmallick.github.io/workshop/project1)
-2. [Project 2: Syria](https://zyannahmallick.github.io/workshop/Project2)
 
