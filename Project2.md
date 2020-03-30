@@ -23,15 +23,17 @@ R-sqaured: 0.9998
 p-value: 0.0402
 
 # Part 2: Modeling and Predicting Spatial Values
-
 ## Population and Differences Maps of Syria
 ![](diff_adm2.png)
+
 This image shows the differences in population for the world pop data and our predicted values.
 
 ![](population_adm2_plot.png)
+
 This map shows the direction and magnitude of error for the predicted values.
 
 ![](Syria_mapview.png)
+
 Here is the 3D Plot for the entirety of Syria.
 
 ## Damascus Subdivision of Syria
