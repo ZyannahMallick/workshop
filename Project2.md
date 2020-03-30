@@ -45,5 +45,7 @@ This is the difference map for Damascus
 ![](damascus_pop_plot.png)
 This is the map showing the error for the predicted values
 
+
 ![](damascus_diff_mapview.png)
+
 Here is the mapview for Damascus. As you can see, it doesn't line up nicely with the boundaries of Damascus which is what I am trying to fix.
