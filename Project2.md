@@ -36,16 +36,21 @@ This map shows the direction and magnitude of error for the predicted values.
 
 Here is the 3D Plot for the entirety of Syria.
 
-## Damascus Subdivision of Syria
-### I subsetted the adm2 region of Damascus and mapped both the population differences for the predicted and world pop data and the error. I'm still working on this part because I need to make it more centered and enlarged, as well as fix the coordinates for this region because it is not quite lined up on the region. 
+![](Syria_diff_3D.png)
 
-![](damascus_diff_plot.png)
+## Damascus Subdivision of Syria
+### I subsetted the adm2 region of Damascus and mapped both the population differences for the predicted and world pop data and the error. 
+
+![](damascus_diff_plot_2.png)
 This is the difference map for Damascus
 
-![](damascus_pop_plot.png)
+![](damascus_pop_plot_2.png)
 This is the map showing the error for the predicted values
 
 
-![](damascus_diff_mapview.png)
+![](damascus_adm2.png)
 
 Here is the mapview for Damascus. As you can see, it doesn't line up nicely with the boundaries of Damascus which is what I am trying to fix.
+
+![](Damascus_diff_3D.png)
+
