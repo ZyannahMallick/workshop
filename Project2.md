@@ -34,9 +34,11 @@ This map shows the direction and magnitude of error for the predicted values.
 
 ![](Syria_mapview.png)
 
-Here is the 3D Plot for the entirety of Syria.
 
 ![](Syria_diff_3D.png)
+Here is the 3D Plot for the entirety of Syria, and shows the error between the two population values.
+
+As can be seen from all of these plots, Damascus and the area outisde of Damascus, Raf al-Damascus, are very heavily populated. 
 
 ## Damascus Subdivision of Syria
 ### I subsetted the adm2 region of Damascus and mapped both the population differences for the predicted and world pop data and the error. 
