@@ -22,37 +22,35 @@ R-sqaured: 0.9998
 
 p-value: 0.0402
 
+The R-squared value for the last model is 0.998, which is very close to 1, and the p value is statistically significant. This indicates a strong relationship between population and all of the variables. The model using just night time lights, urban cover, and bare cover variables did not prove to be statistically significant, which suggests that it's best to use the sum of all the covariates in order to get the best population prediction.
+
+
 # Part 2: Modeling and Predicting Spatial Values
 ## Population and Differences Maps of Syria
-![](diff_adm2.png)
-
-This image shows the differences in population for the world pop data and our predicted values.
 
 ![](population_adm2_plot.png)
 
-This map shows the direction and magnitude of error for the predicted values.
+This map shows the population of Syria as predicted by our model in part 1 of this project.
 
 ![](Syria_mapview.png)
-
+The image above shows the differences between the predicted populations and population based on the Wold Pop dataset. The population is accurate for much of Syria, however it is  underpredicted in the two most populous regions--Aleppo and Damascus. 
 
 ![](Syria_diff_3D.png)
-Here is the 3D Plot for the entirety of Syria, and shows the error between the two population values.
-
-As can be seen from all of these plots, Damascus and the area outisde of Damascus, Raf al-Damascus, are very heavily populated. 
+Here is the 3D Plot for the entirety of Syria, and again you can see that the population is very unpredicted for Damascus and the surrouding area. From the 3D plot, it does not look like the erorr is large for the region of Aleppo like it inidicated from the mapview image above.
 
 ## Damascus Subdivision of Syria
-### I subsetted the adm2 region of Damascus and mapped both the population differences for the predicted and world pop data and the error. 
-
-![](damascus_diff_plot_2.png)
-This is the difference map for Damascus
 
 ![](damascus_pop_plot_2.png)
-This is the map showing the error for the predicted values
+This plot shows the population for Damascus, Syria
 
+![](damascus_diff_plot_2.png)
+The image above is the
 
 ![](damascus_adm2.png)
 
-Here is the mapview for Damascus. As you can see, it doesn't line up nicely with the boundaries of Damascus which is what I am trying to fix.
+Here  the mapview for Damascus. As you can see, it doesn't line up nicely with the boundaries of Damascus which is what I am trying to fix.
 
 ![](Damascus_diff_3D.png)
 
+
+There were a few troubles I encountered with this project. The first was having to run the code--especially the clusters--on my home wifi as it is really slow considering there are many of us using the network at the same time. Another trouble was that I was unable to download the 2015 population raster, which is most liklely why Damascus was very underpredicted. The night time lights, land cover, etc. covaraites that I used were from 2015 but the population file that I used to create my model was from 2019. The population of Damascus had grown during those 4 years, which most likely accounts for this big difference. Additionally, even though I cropped and masked Damascus, I was unable to make the 
