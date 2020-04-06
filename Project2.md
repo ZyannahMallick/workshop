@@ -30,10 +30,10 @@ The R-squared value for the last model is 0.998, which is very close to 1, and t
 
 ![](population_adm2_plot.png)
 
-This map shows the population of Syria as predicted by our model in part 1 of this project. As you can see, Syria and the area outside of it-Rif Dimashq- are
+This map shows the population of Syria as predicted by our model in part 1 of this project. As you can see, Syria and the area outside of it-Rif Dimashq- are very densly populated.
 
 ![](Syria_mapview.png)
-The image above shows the differences between the predicted populations and population based on the Wold Pop dataset. The population is accurate for much of Syria, however it is  underpredicted in the two most populous regions--Aleppo and Damascus. 
+The image above shows the differences between the predicted populations and population based on the Wold Pop dataset. The population is accurate for much of Syria, however it is  underpredicted in the three most populous regions--Aleppo, Damascus, and Rif Dimashq. 
 
 ![](Syria_diff_3D.png)
 Here is the 3D Plot for the entirety of Syria, and again you can see that the population is very unpredicted for Damascus and the surrouding area, known as Rif Dimashq. From the 3D plot, it does not look like the erorr is large for the region of Aleppo like it inidicated from the mapview image above.
