@@ -4,7 +4,7 @@
 ### Tartus, Syria Urbanized Areas
 ![](Tartus2.png)
 
-For part 3, I decided to look at Tartus, an adm2 goverorate, that is situated along the Mediterranean coast in Syria. It is the second largest port cit, and has a population of about 115,000 people. This first plot shows the urbanized areas in Tartus, along with the densities and population of each area. There are a total of ____ urbanized areas in Tartus. Interestingly, the urbanized area closest to the sea has the smalled density and population compared to all the other urbanized areas.
+For part 3, I decided to look at Tartus, an adm2 goverorate, that is situated along the Mediterranean coast in Syria. It is the second largest port cit, and has a population of about 115,000 people. This first plot shows the urbanized areas in Tartus, along with the densities and population of each area. There are a total of 12 urbanized areas in Tartus. Interestingly, the urbanized area closesd to the sea is the largest one but has the smalled density and population compared to  the other 11 urban areas.
 
 
 ## Part 2: Adding transportation facilities and health care services
