@@ -9,7 +9,7 @@ Zyannah Mallick
 3. [Project 3: Deliverable](https://zyannahmallick.github.io/workshop/Project3)
 4. [Project 4: Deliverable](https://zyannahmallick.github.io/workshop/Project4)
 
-[Final Project](https://zyannahmallick.github.io/workshop/FinalProject)
+   [Final Project](https://zyannahmallick.github.io/workshop/FinalProject)
 
 
 ## Reading Responses
