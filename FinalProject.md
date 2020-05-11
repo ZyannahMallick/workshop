@@ -14,7 +14,7 @@ While I focused on Syria as a whole in the begining of my analysis, I looked at 
 
 ![](residual_allvariables.png)
 
-
+## Human settlements, roadways, and health care facilities
 ![](Tartus2.png)
 
 
