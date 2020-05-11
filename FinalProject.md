@@ -12,6 +12,10 @@ While I focused on Syria as a whole in the begining of my analysis, I looked at 
 ![](syria_project1_final.png)
 
 
+The population density of each governate is shown above. These bar and spatial plots show that Aleppo, the old capital of Syria, and Rif Dimashq-the area outside of the current capital of Damascus-is also very heavily populated. Aleppo was the end of the Silk Road, and is close to the Mediteranean Sea, which is most likely why it is still so heavily populated. Tartus, my area of focus, is the third least dense region in Syria. 
+
+
+
 ![](residual_allvariables.png)
 
 ## Human settlements, roadways, and health care facilities
