@@ -5,6 +5,7 @@ Syria is broken up into 2 administrative subdivisions: adm1 and adm2. Syria has 
 
 ![](syria_politicalsubdivisions.png)
 
+The image above shows Syria broken down into its governates and districts. The text in blue tells the names of the 
 
 ![](syria_project1_final.png)
 
