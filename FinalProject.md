@@ -19,7 +19,7 @@ This regresion model describes the relationship between the population of Syria 
 
 ## Human settlements, roadways, and health care facilities
 
-While I focused on Syria as a whole in the begining of my analysis, I looked at Tartus, a district in the Tartus governate, for a more in-depth analysis later on in the semester. Tartus has a population of around 280,000 and contains a major port city, also named Tartus. Tartus city is also home to a Russian Naval Base.
+While I focused on Syria as a whole in the begining of my analysis, I looked at Tartus, a district in the Tartus governate, for a more in-depth analysis later on in the semester. Tartus has a population of around 280,000 and contains a major port city, also named Tartus. Tartus city has a population of 115,000 and is home to a Russian Naval Base.
 
 ![](Tartus_hcf_and_roads.png)
 
