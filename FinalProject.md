@@ -12,10 +12,11 @@ While I focused on Syria as a whole in the begining of my analysis, I looked at 
 ![](syria_project1_final.png)
 
 
-The population density of each governate is shown above. These bar and spatial plots show that Aleppo, the old capital of Syria, and Rif Dimashq-the area outside of the current capital of Damascus-is also very heavily populated. Aleppo was the end of the Silk Road, and is close to the Mediteranean Sea, which is why it is still so heavily populated. Tartus, my area of focus, is the third least dense region in Syria which most likely is due to it being one of the smallest governtes in Syria.
+The population density of each governate is shown above. These bar and spatial plots show that Aleppo, the old capital of Syria, and Rif Dimashq-the area outside of Damascus, the current capital-are very heavily populated. Aleppo was the end of the Silk Road, and is close to the Mediteranean Sea, which is why it is still so heavily populated. Tartus, my area of focus, is the third least dense region in Syria which most likely is due to it being one of the smallest governates in Syria.
 
 ![](residual_allvariables.png)
 
+This regresion model describes the relationship between the population of Syria and 12 land cover and land use covariates used as population predictors. For this model, all of the variables were used. The R-squared value for this  model is 0.998, which is very close to 1, and the p value is statistically significant. This indicates a strong relationship between population and all of the variables. The model using just night time lights, urban cover, and bare cover variables did not prove to be statistically significant, which indicates that it is best to use the sum of all the covariates in order to get the best population prediction.
 
 ## Human settlements, roadways, and health care facilities
 ![](Tartus_hcf_and_roads.png)
